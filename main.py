@@ -5,7 +5,7 @@ def main():
     mng = AccessManager()
     res = mng.ReadaccessrequestfromJSON("test.json")
     print(res)
-    print("Holiii")
+    print("Holi")
 
 
 if __name__ == "__main__":
